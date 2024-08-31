@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\visual code\\SnakeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EE24CA-2A02-4418-8D4E-8B9C9C084E07}|SnakeGame\\SnakeGame.vcxproj|D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\Mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75EE24CA-2A02-4418-8D4E-8B9C9C084E07}|SnakeGame\\SnakeGame.vcxproj|solutionrelative:SnakeGame\\Mylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EE24CA-2A02-4418-8D4E-8B9C9C084E07}|SnakeGame\\SnakeGame.vcxproj|D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75EE24CA-2A02-4418-8D4E-8B9C9C084E07}|SnakeGame\\SnakeGame.vcxproj|solutionrelative:SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mylib.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\Mylib.h",
+              "RelativeDocumentMoniker": "SnakeGame\\Mylib.h",
+              "ToolTip": "D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\Mylib.h",
+              "RelativeToolTip": "SnakeGame\\Mylib.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T14:49:09.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SnakeGame.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\SnakeGame.cpp",
+              "RelativeDocumentMoniker": "SnakeGame\\SnakeGame.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\visual code\\SnakeGame\\SnakeGame\\SnakeGame.cpp",
+              "RelativeToolTip": "SnakeGame\\SnakeGame.cpp",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwE8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T14:47:49.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
